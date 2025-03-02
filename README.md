@@ -1,6 +1,6 @@
 # 🚀 **Sol-Price-Loss-Free-Bot** 
 
-The SOL Price Loss-Free Bot is a useful tool that helps protect against losses caused by SOL price fluctuations. The bot automatically swaps all SOL in your wallet to USDC when the SOL price drops below a set limit. Conversely, when the SOL price rises above the limit, it swaps all USDC back to SOL. This ensures that you avoid losses during volatile market conditions.
+The SOL Price Loss-Free Bot is a useful tool that helps protect against losses caused by SOL price fluctuations and make profit with sol price change. The bot automatically swaps all SOL in your wallet to USDC when the SOL price drops below a set limit. Conversely, when the SOL price rises above the limit, it swaps all USDC back to SOL. This ensures that you avoid losses during volatile market conditions.
 
 ### 🎯 **Key Features**
 
